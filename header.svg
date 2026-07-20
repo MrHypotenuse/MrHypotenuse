@@ -49,7 +49,7 @@
         <animate attributeName="stroke-dashoffset" values="760;0;0" keyTimes="0;0.35;1" dur="5s" repeatCount="indefinite"/>
       </path>
       <path d="M892 292H922V322" stroke="#A5B4FC" stroke-width="3" opacity="0.8"/>
-      <path d="M914 112L1072 294" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="1.5" stroke-dasharray="5 8">
+      <path d="M1072 294L914 112" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="1.5" stroke-dasharray="5 8">
         <animate attributeName="stroke-dashoffset" values="0;-52" dur="2.8s" repeatCount="indefinite"/>
       </path>
       <circle cx="892" cy="92" r="7" fill="#8B5CF6">
