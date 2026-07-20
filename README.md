@@ -67,12 +67,6 @@ I turn fuzzy product requirements into systems that feel simple on the surface a
   </tr>
 </table>
 
-## The signal
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHypotenuse&bg_color=080b16&color=a5b4fc&line=22d3ee&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Signal" width="100%" alt="Raahim's GitHub contribution activity graph" />
-</div>
-
 <div align="center">
   <sub>Build the useful thing. Make the hard parts invisible.</sub>
 </div>
