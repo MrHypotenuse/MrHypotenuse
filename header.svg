@@ -1,3 +1,4 @@
+
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Raahim Farhan - Full-stack engineer</title>
   <desc id="desc">Animated dark neon banner with a right triangle motif and orbiting particles.</desc>
@@ -44,7 +45,7 @@
     <circle cx="130" cy="390" r="180" fill="#8B5CF6" fill-opacity="0.14" filter="url(#blur)"/>
 
     <g opacity="0.9" filter="url(#softGlow)">
-      <path d="M892 92V322H1092Z" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M892 92V322H1092" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="2" stroke-linejoin="round"/>
       <path d="M892 92V322H1092Z" stroke="url(#neon)" stroke-width="4" stroke-linejoin="round" stroke-dasharray="760" stroke-dashoffset="760">
         <animate attributeName="stroke-dashoffset" values="760;0;0" keyTimes="0;0.35;1" dur="5s" repeatCount="indefinite"/>
       </path>
