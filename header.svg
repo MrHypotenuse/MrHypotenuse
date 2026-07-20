@@ -46,12 +46,16 @@
 
     <g opacity="0.9" filter="url(#softGlow)">
       <path d="M892 92V322H1092" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="2" stroke-linejoin="round"/>
-      <path d="M892 92V322H1092Z" stroke="url(#neon)" stroke-width="4" stroke-linejoin="round" stroke-dasharray="760" stroke-dashoffset="760">
-        <animate attributeName="stroke-dashoffset" values="760;0;0" keyTimes="0;0.35;1" dur="5s" repeatCount="indefinite"/>
+      <path d="M892 92V322H1092" stroke="url(#neon)" stroke-width="4" stroke-linejoin="round" stroke-dasharray="430" stroke-dashoffset="430">
+        <animate attributeName="stroke-dashoffset" values="430;0;0" keyTimes="0;0.35;1" dur="5s" repeatCount="indefinite"/>
       </path>
       <path d="M892 292H922V322" stroke="#A5B4FC" stroke-width="3" opacity="0.8"/>
       <path d="M1072 294L914 112" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="1.5" stroke-dasharray="5 8">
         <animate attributeName="stroke-dashoffset" values="0;-52" dur="2.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1092 322L892 92" stroke="url(#neon)" stroke-width="4" stroke-linecap="round" stroke-dasharray="84 360" stroke-dashoffset="0" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.38;0.68;0.74;1" dur="5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-dashoffset" values="0;0;-304;-304" keyTimes="0;0.34;0.68;1" dur="5s" repeatCount="indefinite"/>
       </path>
       <circle cx="892" cy="92" r="7" fill="#8B5CF6">
         <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/>
